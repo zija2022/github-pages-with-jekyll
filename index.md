@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "A fresh_start 1.0"
 ---
 
-I'm glad you are here. I plan to talk about ...
+
+So this is a new begining in my Web Development journey. I hope that I will manage to finish this course during the summer as I am curently employed-
